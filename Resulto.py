@@ -9,3 +9,5 @@ for dog in diccionario_dogs:
 print('Rocky', dog_dic['Rocky'])
 print('Sparky', dog_dic['Sparky'])
 print(f"Los nombrs son: ", list(dog_dic.keys()))
+
+#ajja
