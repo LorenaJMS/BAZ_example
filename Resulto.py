@@ -15,3 +15,5 @@ print(f"Los nombrs son: ", list(dog_dic.keys()))
 #Subiendo cambios para empezar a ver que ondagit
 #nuevo
 #Otro intento
+#Uno más
+#Uno más
