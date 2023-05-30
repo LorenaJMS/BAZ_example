@@ -10,8 +10,8 @@ print('Rocky', dog_dic['Rocky'])
 print('Sparky', dog_dic['Sparky'])
 print(f"Los nombrs son: ", list(dog_dic.keys()))
 
-#Comentario nuevooo
-#Nuevo comentario
+#Comentario nuevooo nuevo
+#Nuevo comentario espero sig
 #Subiendo cambios para empezar a ver que ondagit
 #nuevo
 #Otro intento
